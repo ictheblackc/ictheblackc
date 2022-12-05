@@ -30,19 +30,7 @@ Pandas, NumPy, matplotlib, TensorFlow, Keras, PyTorch
 Microsoft Power Apps
 ```
 
-## My skills and tools that I use
-
-**Teamwork**
-```
-Trello, Miro, Notion
-```
-
-**Design**
-```
-Figma, Photoshop
-```
-
 **Other**
 ```
-Knowledge of Linux systems, Telegram bot development
+Trello, Miro, Notion, Figma, Photoshop, knowledge of Linux systems, Telegram bot development
 ```
