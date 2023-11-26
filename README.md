@@ -12,7 +12,7 @@ What I am doing now:
 
 **Backend**
 ```
-PHP, Python3, MySQL, SQLite3, PosgreSQL
+PHP, Python3, MySQL, SQLite3, PosgreSQL, Django
 ```
 
 **Frontend**
