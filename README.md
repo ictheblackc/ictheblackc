@@ -12,7 +12,7 @@ What I am doing now:
 
 **Backend**
 ```
-PHP, Python3, MySQL, SQLite3, PosgreSQL, Django
+PHP, Python3, MySQL, SQLite3, WordPress, PosgreSQL, Django
 ```
 
 **Frontend**
@@ -32,5 +32,5 @@ Microsoft Power Apps
 
 **Other**
 ```
-Trello, Miro, Notion, Figma, Photoshop, knowledge of Linux systems, Telegram bot development
+Trello, Miro, Notion, Figma, Photoshop, Krita, GIMP, knowledge of Linux systems, Telegram bot development
 ```
