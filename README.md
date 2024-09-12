@@ -20,11 +20,6 @@ PHP, Python3, MySQL, SQLite3, WordPress, PosgreSQL, Django
 JavaScript, HTML, CSS, Bootstrap
 ```
 
-**ML**
-```
-Pandas, NumPy, matplotlib, TensorFlow, Keras, PyTorch 
-```
-
 **Low-code**
 ```
 Microsoft Power Apps
