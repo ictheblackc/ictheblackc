@@ -4,7 +4,7 @@
 
 What I am doing now:
 - 🤖 developing Telegram bots
-- 🐍 learning Python frameworks (Django, Kivy)
+- 🐍 working with FastAPI
 - 👨‍💻 working with WordPress (creating websites, custom plugins, themes)
 - 💪 creating project teams
 
@@ -15,7 +15,7 @@ Build useful and beautiful tools powered by AI 🔥
 
 **⚙️ Backend**
 ```
-Python3, FastAPI, PosgreSQL, PHP, MySQL, SQLite3, WordPress, Django, aiogram
+Python3, FastAPI, PosgreSQL, PHP, MySQL, SQLite3, WordPress, Django, pyTelegramBotAPI, aiogram
 ```
 
 **🎨 Frontend**
