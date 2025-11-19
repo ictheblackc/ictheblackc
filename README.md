@@ -1,6 +1,6 @@
 # Hello, World!
 
-## I'm a developer and AI-enthusiast from planet Earth.
+## I'm a full-stack developer and AI-enthusiast from planet Earth.
 
 What I am doing now:
 - 🤖 developing Telegram bots
